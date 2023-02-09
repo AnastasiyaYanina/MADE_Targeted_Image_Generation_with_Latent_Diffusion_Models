@@ -1,7 +1,7 @@
 MADE_Targeted_Image_Generation_with_Latent_Diffusion_Models
 ==============================
 
-A short description of the project.
+Тематическая генерация изображений с помощью библиотеки Stable Diffusion.
 
 Project Organization
 ------------
